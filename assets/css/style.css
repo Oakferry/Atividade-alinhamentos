@@ -1,0 +1,55 @@
+
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-image: url(../img/cabecalhos_back.png);
+    background-repeat: repeat-y;
+    background-color: #fff6d8;
+}
+
+.family{
+    margin-left: 170px;
+    padding: 20px;
+    height: 100%;
+    max-width: 85%;
+
+}
+
+h1,h2,h3{
+    padding: 25px 0 20px 25px;
+    color: #906718;
+}
+
+.family .par-1{
+    padding: 5px 0px 15px 0px;
+    text-indent: 3%;
+    font-size: 18px;
+
+}
+
+.par{
+    margin: 12px 0 18px 19px;   
+    font-size: 18px;
+    text-indent: 2%;
+}
+.par-2{
+    padding:0px 0 18px 19px;
+    text-indent: 2%;
+    font-size: 18px;
+
+}
+
+.div-cabecalho-1, .div-pai{
+    border-bottom: 5px dashed #D48B00;
+
+}
+
+h3{
+    margin:  25px 0 20px 25px ;
+    padding: 3px;
+    background-color: #906718;
+    color: #fff6d8;
+}
